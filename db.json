@@ -1,11 +1,24 @@
 {
-  "posts": [
+  "restaurants": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Udupi Grand Veg",
+	  "address": "Marathahalli, Bangalore"
+    },
+	{
+      "id": 2,
+      "title": "Udupi Upachar",
+	  "address": "Brookefield, Bangalore"
+    },
+	{
+      "id": 3,
+      "title": "Udupi Nalapaka",
+	  "address": "Bellandur, Bangalore"
+    },
+	{
+      "id": 4,
+      "title": "Udupi Palace",
+	  "address": "HSR, Bangalore"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
