@@ -22,25 +22,9 @@
     }
   ],
   "food": [
-    {
-      "id": 1,
-      "title": "Masala Dosa",
-      "url": "masala_dosa.jpg"	    
-    },
-	{
-      "id": 2,
-      "title": "Idli",
-      "url": "idli.jpg"
-    },
-	{
-      "id": 3,
-      "title": "Pizza",
-      "url": "pizza.jpg"	
-    },
-	{
-      "id": 4,
-      "title": "Burger",
-      "url": "burger.jpg"  	
-    }
+    { "id": 1, "title": "Masala Dosa", "url": "masala_dosa.jpg" },
+    { "id": 2, "title": "Idli", "url": "idli.jpg" },
+    { "id": 3, "title": "Pizza","url": "pizza.jpg" },
+    { "id": 4, "title": "Burger","url": "burger.jpg" }
   ]
 }
